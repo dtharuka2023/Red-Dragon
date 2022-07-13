@@ -1,6 +1,6 @@
 //════════════(00)════════════════\\
 //
-//          RED DRAGON v6.0
+//          𝐑𝐄𝐀⃟𝐋 𝐓⃟𝐇𝐀𝐑𝐔𝐊⃢𝐀 v6.0
 //
 //════════════(00)════════════════\\
 
@@ -19,31 +19,31 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is 𝐑𝐞𝐚𝐥 𝐓𝐡𝐚𝐫𝐮🔥
+My Creator is 𝐓𝐡𝐚𝐫𝐮𝐤𝐚 𝐃𝐢𝐥𝐬𝐡𝐚𝐧😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.owner = ['+940760224957'] //Owner number in aive msg
+global.premium = ['+940760224957'] //Owner Number info
+global.ownernomer = '+940760224957' //Owner Number <<<
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
+global.ownername = '😎᳆⃞🇱🇰⃟REᷧAᷟL⃢⃟̬tharukaͮͮͮ☠꧂' //Owner Name
+global.botname = ' ☬𝐑𝐄𝐀𝐋༒𝐓𝐇𝐀𝐑𝐔࿐' //Bot Name
 
-global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+global.button = '🤭𝔴𝔥𝔞𝔱𝔰𝔞𝔭𝔭📍' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://chat.whatsapp.com/IImDYhbgiz94TPu0MZDYMK' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = '☬𝐑𝐄𝐀𝐋༒𝐓𝐇𝐀𝐑𝐔࿐' //Bot Pacage Name
+global.author = '😎᳆⃞🇱🇰⃟REᷧAᷟL⃢⃟̬tharukaͮͮͮ☠꧂❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '©_Kumuthu.' //In list menu
+global.footer = '©_𝐓𝐡𝐚𝐫𝐮.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://chat.whatsapp.com/IImDYhbgiz94TPu0MZDYMK' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
